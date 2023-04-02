@@ -1,0 +1,1 @@
+docker run -v $(pwd)/myWorkersConfigurations/PrivateKeyShifter/WORKER_SHIFTER_1:/settings --net=myNetwork  -itd pkshifter 
